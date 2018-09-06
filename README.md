@@ -1,3 +1,3 @@
 # Assembler
- Labs in Assembler
- 8.Правильность расстановки скобок.
+Labs in Assembler
+8.Правильность расстановки скобок.
